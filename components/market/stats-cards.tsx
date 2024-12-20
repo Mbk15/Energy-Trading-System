@@ -12,7 +12,7 @@ export function StatsCards() {
           <h3 className="font-semibold">Current Price</h3>
         </div>
         <p className="text-3xl font-bold mt-2">$46.40/kWh</p>
-        <p className="text-sm text-muted-foreground">+2.3% from yesterday</p>
+        <p className="text-sm text-muted-foreground">+7.3% from yesterday</p>
       </Card>
 
       <Card className="p-4">
@@ -20,7 +20,7 @@ export function StatsCards() {
           <TrendingUp className="h-5 w-5 text-blue-500" />
           <h3 className="font-semibold">24h Volume</h3>
         </div>
-        <p className="text-3xl font-bold mt-2">10.5 MWh</p>
+        <p className="text-3xl font-bold mt-2">25.5 MWh</p>
         <p className="text-sm text-muted-foreground">Total trades: 156</p>
       </Card>
 
